@@ -43,6 +43,7 @@ body{
     text-transform: uppercase;
     font-weight: 400;
     font-size: 3rem;
+    line-height: 40px;
     max-width: 200px;
     letter-spacing: 4px;
 }
@@ -69,7 +70,7 @@ body{
 }
 
 .header .titulo .star{
-    width: 20px;
+    width: 30px;
 }
 
 /*---------------
