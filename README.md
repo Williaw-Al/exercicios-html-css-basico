@@ -70,3 +70,4 @@ Hoje já entendo as tags, o **como** e **porque** usá-las, mas na época, chegu
 
 ## 👨🏽‍💻 Mais Exercícios 👨🏽‍💻
 Aqui vai ficar a lista dos outros exercícios:
+- [CSS Avançado](https://github.com/Williaw-Al/exercicio-css-grid)
